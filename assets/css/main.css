@@ -1192,12 +1192,9 @@
 		}
 
 	.button-big {
-		background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: linear-gradient(top, #ed391b, #ce1a00);
+		
 		display: inline-block;
-		background-color: #ed391b;
+		background-color: #0099ff;
 		color: #fff;
 		text-decoration: none;
 		font-size: 1.75em;
@@ -1233,10 +1230,6 @@
 		border-bottom: solid 1px #e2e6e8;
 	}
 
-	#content .link-list li {
-		border-bottom: solid 1px #e2e6e8;
-	}
-
 	#content .check-list li {
 		border-bottom: solid 1px #e2e6e8;
 	}
@@ -1248,11 +1241,7 @@
 		border-bottom: solid 1px #b5bec3;
 	}
 
-	#footer .link-list li {
-		border-top: solid 1px #e0e4e6;
-		border-bottom: solid 1px #b5bec3;
-	}
-
+	
 	#footer .check-list li {
 		border-top: solid 1px #e0e4e6;
 		border-bottom: solid 1px #b5bec3;
@@ -1332,7 +1321,7 @@
 					#header nav a {
 						color: #c6c8c8;
 						text-decoration: none;
-						font-size: 1.4em;
+						font-size: 2em;
 						margin-left: 60px;
 						outline: 0;
 					}
